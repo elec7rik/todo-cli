@@ -1,0 +1,5 @@
+{
+  "check on Django": true,
+  "push code to github": true,
+  "code rust": false
+}
